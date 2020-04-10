@@ -1,0 +1,28 @@
+body{
+    font-size: 17px;
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+}
+p{
+    text-align: left;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+h2{
+    font-size: 1.05em;
+    margin-left: 250px;
+}
+table{
+    margin-left: 250px;
+}
+figure{
+    margin-left: 250px;
+}
+td{
+    padding-right: 160px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgb(226, 226, 226);
+}
